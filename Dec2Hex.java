@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Dec2Hex {
 
-    // Static method to convert a string input to hexadecimal
+    // Static method to convert a string input to hexadecimal..
     public static String convertToHex(String input) {
         if (input == null || input.isEmpty()) {
             return "Error: No input argument provided. Please enter an integer.";
